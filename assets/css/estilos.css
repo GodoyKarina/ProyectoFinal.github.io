@@ -13,6 +13,10 @@ body {
 
 /* Mis trabajos */
 
+.mis-trabajos{
+  background-color: rgba(18, 59, 101, 0.745) ;
+}
+
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
@@ -37,3 +41,5 @@ body {
   }
 
 }
+
+
