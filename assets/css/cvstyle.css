@@ -1,0 +1,11 @@
+body {
+    margin: 5%;
+}
+
+.fondo-cv {
+    background-image: url("/assets/img/imagen-fondo-cv.jpg");
+    background-size: cover;
+    padding-top: 0;
+    margin-top: 0;
+    }
+

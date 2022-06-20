@@ -4,7 +4,7 @@ body {
 
 /* Gran Artista */
 
-#Gran-Artista {
+.Gran-Artista {
   background-image: url("../img/gran-artista.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -17,7 +17,7 @@ body {
   background-color: rgba(18, 59, 101, 0.745) ;
 }
 
-#Mis-trabajos .image-top {
+.mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -26,13 +26,13 @@ body {
 
 /* Contacto */
 
-#Contacto form label {
+.contacto form label {
   font-weight: 700;
   color: #373a3c;
 }
 
 @media (max-width: 768px) {
-  #Contacto form label {
+  .contacto form label {
     font-weight: 400;
   }
 

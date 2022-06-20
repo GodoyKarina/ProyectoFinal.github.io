@@ -1,0 +1,64 @@
+body {
+    font-family: Lucida Grande;
+    background-image: url("/assets/img/textura-fondo.jpg");
+}
+
+.header {
+    height: 10em;
+    padding: 5em;
+    font-size: 2em;
+    background-image: url("/assets/img/cupcakes-inicio-2.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0px;
+    font-weight: 400;
+
+}
+
+.products {
+    width: 80%;
+    margin: auto;
+}
+
+.products td {
+    width: 50%;
+    padding: 2em;
+}
+
+.products img {
+    width: 100%;
+    border: solid 1px #ddd;
+}
+
+.imagen {
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(185, 112, 41);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    color: white
+}
+
+.pastel {
+    font-weight: bold;
+    color: orangered;
+}

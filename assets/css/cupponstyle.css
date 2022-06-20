@@ -1,0 +1,28 @@
+.navbar {
+    background-color: green;
+}
+
+.card-tittle {
+    font-family: 'Roboto', sans-serif;
+}
+.logo_navbar {
+    height: 50px;
+}
+
+.parrafo1{
+    color: green;
+
+}
+
+.formulario {
+    background-color: green;
+    color: white;
+}
+.imagen-footer {
+    width: 200px;
+}
+
+.parrafo2 {
+    
+    font-weight: lighter;
+}
